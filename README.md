@@ -1,2 +1,2 @@
-# PreCourseHenry2
-segundo repositorio de prueba del modulo2 de henry
+Octavio Leal
+prueba de como crear un repositorio desde github y clonarlo a mi escritorio
